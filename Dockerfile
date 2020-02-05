@@ -1,4 +1,4 @@
-FROM nextcloud:16.0.4-apache
+FROM nextcloud:17.0.3-apache
 
 RUN export DEBIAN_FRONTEND=noninteractive && apt-get update && apt-get --no-install-recommends install -y \
     supervisor \
