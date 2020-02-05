@@ -1,2 +1,3 @@
-# nextcloud
-Projeto de gestão de arquivos privados
+# cronos-nextcloud
+
+Projeto de personalização das configurações padrões do nextcloud.
